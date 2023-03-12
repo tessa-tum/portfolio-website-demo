@@ -339,7 +339,8 @@ button,
   font-weight: var(--font-weight-kilo);
   font-size: var(--font-size-micro);   
   text-decoration: none;
-  background-color: var(--color-brand-secondary);
+  background-color: var(--color-brand-primary);
+  color: var(--color-text-inverted);
   padding: 10px;
   margin-top: 10px;
   border-radius: 3px;

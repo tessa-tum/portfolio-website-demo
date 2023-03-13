@@ -1,6 +1,7 @@
 
 /* basics
 ---------------------------------- */
+
 :root {
   --color-canvas: #f8f5f2;
   --color-brand-primary: #007e7e;
@@ -45,6 +46,7 @@ body {
 
  /* headings
 ---------------------------------- */
+
 h1 {
   font-size: var(--font-size-h1);
   font-weight: var(--font-weight-kilo);
@@ -67,6 +69,7 @@ h4 {
 
  /* links
 ---------------------------------- */
+
 a {
   color: var(--color-text-primary);
   font-weight: var(--font-weight-base);
@@ -114,10 +117,8 @@ a:active {
   left: 20px;
 }
 
- /* main content
+ /* content: profile page
 ---------------------------------- */
- /* profile
--------------*/
 
 .profile {
   max-width: var(--max-width-base);
@@ -133,8 +134,8 @@ a:active {
   margin-right: 50px;
 }
 
- /* about me
--------------*/
+ /* content: about page
+---------------------------------- */
 
 .about-me {
   max-width: var(--max-width-base);
@@ -187,6 +188,7 @@ tbody {
 
  /* about me - animations
 -------------*/
+
  /* quadriga */
 
 @keyframes color-change-horse1 {
@@ -268,8 +270,8 @@ tbody {
   animation: 34s cloud-move-reverse infinite alternate linear;
 }
 
- /* projects
--------------*/
+ /* content: projects page
+---------------------------------- */
 
 .projects {
   max-width: var(--max-width-kilo);
@@ -277,11 +279,13 @@ tbody {
   text-align: center;
 }
 
-/* start grid fallback */´
+/* start grid fallback */
+
 .grid_item {
   display: inline-block;
   width: 33%;
  }
+
  /* end grid fallback */
  
  @supports (display: grid) {
@@ -302,8 +306,8 @@ tbody {
   }
 }
 
- /* contact page
--------------*/
+ /* content: contact page
+---------------------------------- */
 
 .contact {
   max-width: var(--max-width-base);
@@ -319,7 +323,6 @@ tbody {
 
  /* footer
 ---------------------------------- */
- /* How can I create a sticky footer? */
 
 .page-footer {
   clear: both;
@@ -331,6 +334,7 @@ tbody {
 
 /* misc
 ---------------------------------- */
+
 button,
 .button {
   border: none;

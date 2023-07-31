@@ -383,12 +383,12 @@ tbody {
   }
 
 .grid_item {
-    background-color: var(--color-brand-tertiary);
     width: auto;
     min-height: auto;
     margin: 0;
     padding: 5px;
     text-align: center;
+    grid-gap: 20px;
   }
 }
 

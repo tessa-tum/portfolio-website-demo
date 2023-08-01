@@ -4,7 +4,7 @@
 
 Responsive (demo) portfolio website containing information about me and the projects I've been working on during Career Foundry’s Full-Stack Web Development Program.
 
-[Deployed site:](https://tessa-tum.github.io/portfolio-website/)
+[Deployed site](https://tessa-tum.github.io/portfolio-website/)
 
 ## Build with
 
@@ -23,7 +23,7 @@ Responsive (demo) portfolio website containing information about me and the proj
 
 ## Features
 
-- Three interconnected HTML pages
+- Four interconnected HTML pages
   - home (index) page 
   - about page
   - work page (or section) with work examples, displayed as "cards" in a grid

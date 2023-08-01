@@ -4,7 +4,7 @@
 
 Responsive (demo) portfolio website containing information about me and the projects I've been working on during Career Foundry’s Full-Stack Web Development Program.
 
-[Deployed site](https://tessa-tum.github.io/portfolio-website/)
+[Deployed site](https://tessa-tum.github.io/portfolio-website/) :sparkles:
 
 ## Build with
 
@@ -32,8 +32,8 @@ Responsive (demo) portfolio website containing information about me and the proj
 
 ## How to run 
 
-- no build workflow
+- :exclamation: no build workflow
 - clone the repo
 - `cd` into project
 - if on Visual Studio Code, install "Live Server" extension, go to bottom menu and click "Go Live": <br>
-- this is going to open the website on localhost http://127.0.0.1:5500/
+- this is going to open the website on localhost

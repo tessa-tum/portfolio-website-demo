@@ -6,7 +6,7 @@ Responsive (demo) portfolio website containing information about me and the proj
 
 [Deployed site](https://tessa-tum.github.io/portfolio-website/) :sparkles:
 
-## Build with
+## Built with
 
 ### Languages
 
